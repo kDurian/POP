@@ -1,0 +1,30 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - UITableView+FDTemplateLayoutCell (1.4)
+  - XMNetworking (1.0.1):
+    - XMNetworking/Core (= 1.0.1)
+    - XMNetworking/Lib (= 1.0.1)
+  - XMNetworking/Core (1.0.1):
+    - XMNetworking/Lib/AFNetworking-3.1.0
+  - XMNetworking/Lib (1.0.1):
+    - XMNetworking/Lib/AFNetworking-3.1.0 (= 1.0.1)
+  - XMNetworking/Lib/AFNetworking-3.1.0 (1.0.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.0.0)
+  - UITableView+FDTemplateLayoutCell
+  - XMNetworking
+  - YYKit
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+  XMNetworking: 1268706bea6e16b4187e22033618e13fa889e3c9
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 85477a619f0c67a5878973bd2f96258bcd609021
+
+COCOAPODS: 1.0.0
